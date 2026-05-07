@@ -10,5 +10,6 @@ def task2():
     time.sleep(1)
     print("Task 2 finished")
 
+"Run tasks sequentially"
 task1()
 task2()
